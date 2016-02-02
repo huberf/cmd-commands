@@ -1,2 +1,1 @@
-cd ../../../../../../../../../../../../../../../../../../../../
-cd C:/Users/Noah/OneDrive/Code/Python/Password
+python C:/Users/Noah/OneDrive/Code/Python/Password/password.py
