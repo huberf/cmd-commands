@@ -1,3 +1,4 @@
+@echo off
 echo Custom Commands are:/nHelp
 echo addpass - Adds a new password
 echo pass - Launches password program
